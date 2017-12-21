@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <declare-styleable name="DownMenuView">
+                <attr name="DownMenuView_line_resource" format="reference"/>
+                <attr name="DownMenuView_line_color" format="color"/>
+                <attr name="DownMenuView_line_height" format="dimension"/>
+        </declare-styleable>
+</resources>
